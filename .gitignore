@@ -1,4 +1,6 @@
-# ignore todos os arquivos no diretório
+# ignore todos os arquivos nos diretórios
 var/
+app/etc/local.xml
+
 
 
