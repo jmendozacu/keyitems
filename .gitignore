@@ -1,5 +1,6 @@
 # ignore todos os arquivos nos diretorios
 var/
+tmp/
 app/etc/local.xml
 
 
