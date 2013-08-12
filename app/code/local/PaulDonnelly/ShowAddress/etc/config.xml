@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<config>
+    <modules>
+        <PaulDonnelly_ShowAddress>
+            <version>1.0</version>
+        </PaulDonnelly_ShowAddress>
+    </modules>        
+    <global>
+        <blocks>
+            <customer>
+                <rewrite>
+                    <form_register>PaulDonnelly_ShowAddress_Block_Register</form_register>
+                </rewrite>
+            </customer>
+        </blocks>
+    </global>       
+</config>
